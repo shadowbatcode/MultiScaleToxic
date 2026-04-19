@@ -1,6 +1,7 @@
 # MultiScaleToxic
 
 > A research implementation for peptide property prediction via **atom–residue dual-scale integration**.
+<img width="995" height="734" alt="image" src="https://github.com/user-attachments/assets/c5f3c471-e346-4117-a09b-f52ba8adeb9a" />
 
 ## Overview
 
