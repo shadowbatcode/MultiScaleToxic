@@ -118,3 +118,9 @@ Peptide sequence
         └── Final peptide representation
                 │
                 └── Property prediction head
+## Citation
+
+```text
+If you use this repository in academic work, please cite the corresponding manuscript:
+
+
