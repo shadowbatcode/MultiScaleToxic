@@ -94,6 +94,7 @@ The fused peptide representation is used for multiple downstream tasks, includin
 
 ---
 
+
 ## Architecture at a glance
 
 ```text
@@ -118,9 +119,11 @@ Peptide sequence
         └── Final peptide representation
                 │
                 └── Property prediction head
-## Citation
+```
+### Citation
 
 ```text
 If you use this repository in academic work, please cite the corresponding manuscript:
-
+UniPept: A Universal Model for Predicting Peptide Properties Based on Atom-Residue Dual-Scale Integration.
+```
 
